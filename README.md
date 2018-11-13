@@ -1,5 +1,5 @@
 # Information-Retrieval
-Team project for course IR
+Team project for IR course
 
 Topic : Efficient Vector Space Retrieval
 Efficient IR system needs to be able to retrieve results, in real-time, from very large document collections
